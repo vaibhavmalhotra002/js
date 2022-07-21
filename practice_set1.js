@@ -7,9 +7,13 @@ console.log(a+b) //concatination takes place here
 console.log(typeof (a+b))
 
 //create a const object in js &can you make it hold a number later?
-/*
-const a ={
-    name="vaibhav"
-    class=10
+
+const a1 ={
+    name:"vaibhav",
+    section:10
 }
-a= 45; //Will give a error */
+//a1= 45; Will give a error */
+
+a1['name']="vaibhavi"
+a1['class']=12
+console.log(a1)
