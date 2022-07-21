@@ -14,6 +14,14 @@ const a1 ={
 }
 //a1= 45; Will give a error */
 
+
+//try to add a new key to the const obj in q3 were u able to do it
 a1['name']="vaibhavi"
 a1['class']=12
 console.log(a1)
+ //create a const dictionary
+ const dict ={
+    eggcorn : "a word or phrase that is a seemingly logical alteration of another word or phrase that sounds similar and has been misheard or misinterpreted, as 'old wise tale' for 'old wives' tale'.",
+    erlking : "a spirit or personified natural power that works mischief, especially to children."
+ }
+ console.log(dict['eggcorn'])
