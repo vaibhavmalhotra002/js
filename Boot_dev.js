@@ -1,13 +1,6 @@
 let elonHeight = 5
 let saraHeight = 10
 let jillHeight = 7
-let bobHeight = 6
-
-// don't edit above this line
-
-let bobTallerThanElon =
-let saraTallerThanElon =
-let jillTallerThanSara =
 
 // don't edit below this line
 
