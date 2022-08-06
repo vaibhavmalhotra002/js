@@ -18,4 +18,5 @@ let g=undefined
 let h
 
 console.log(a,b,c,d,e,f,g,h)
-console.log(typeof d)
+console.log(typeof d) 
+console.log(typeof e)
