@@ -6,6 +6,8 @@ if (age>10 && age<20){
 else{
     console.log("Your age doesn't lies between 10 & 20 ")
 }*/
+
+
 //use switch
 // let age = prompt("What is your age")
 // switch(age){
@@ -18,7 +20,9 @@ else{
 //         default:
 //         console.log("You are no one")
 // }
-// //number is div by both 2 &3
+// 
+
+//number is div by both 2 &3
 // let num =prompt("Enter Your Number:")
 // num=Number.parseInt(num)
 // if(num % 2==0 && num%3==0){
