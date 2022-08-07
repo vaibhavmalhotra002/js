@@ -14,3 +14,4 @@ console.log(fruit)
 
 let name ="Vaibhav"
 console.log(name.length)
+console.log()
