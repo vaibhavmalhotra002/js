@@ -13,3 +13,5 @@ let dost ="Vaibhav" + "Kunal"
 for (let i = 0; i < dost.length; i++) {
     console.log(dost[i]);
     }
+
+    

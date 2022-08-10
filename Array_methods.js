@@ -16,3 +16,7 @@ console.log(num)
 
 let r =num.unshift(34)//removes an element from starting
 console.log(r,num)
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.push("Kiwi");
+console.log(fruits)
