@@ -8,7 +8,7 @@ console.log(b)
 num.pop()
 console.log(num)
 
-num.push(56)
+num.push(55)
 console.log(num)
 
 // let r =num.shift()  //removes an element from starting
