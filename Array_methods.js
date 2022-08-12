@@ -10,6 +10,10 @@ console.log(num)
 
 num.push(55)
 console.log(num)
+num.push(56)
+console.log(num)
+num.push(57)
+console.log(num)
 
 // let r =num.shift()  //removes an element from starting
 // console.log(r,num)
