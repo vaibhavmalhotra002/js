@@ -12,7 +12,7 @@ num.push(55)
 console.log(num)
 num.push(56)
 console.log(num)
-num.push(57)
+num.push(58)
 console.log(num)
 
 // let r =num.shift()  //removes an element from starting
