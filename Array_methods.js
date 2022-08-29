@@ -1,4 +1,4 @@
-let num=[1,2,3,45,456]
+let num=[1,2,3,45,4]
 let a = num.toString();
 console.log(a ,typeof(a))
 
